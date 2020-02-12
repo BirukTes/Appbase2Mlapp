@@ -6,11 +6,13 @@ Convert appbase class m code app 2 mlapp (app designer)
 
 ### Usage
 1. Select m file
-   Remove/replace any params for conversion, as of now.
+   - Remove/replace any params for conversion, as of now.
 2. Click Get Props
 
 3. Group components that you would like to be grouped
 
 4. Click convert
+
+5. Make sure to open the mlapp in app designer, for the code to generate  
 
 ` V1.0`

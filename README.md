@@ -15,4 +15,7 @@ Convert appbase class m code app 2 mlapp (app designer)
 
 5. Make sure to open the mlapp in app designer, for the code to generate  
 
-` V1.0`
+#### Tips:
+- The process can be trial and error, such as when you open the converted app, it will also run the old app. This might be because some of the components such as uidropdown are still referencing the handle, thus in-order to get rid of the referenced old app, you will add a new component in App Designer and it will be saved separately.   
+
+` V1.3`
